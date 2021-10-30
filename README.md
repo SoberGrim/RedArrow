@@ -17,6 +17,6 @@ F9 - on\off<br>
 F8 - rotate arrow<br>
 F7 - change arrow type<br>
 
-# Have fun!
+<b>Have fun!</b>
 
 ![image](https://user-images.githubusercontent.com/12745995/139560453-5dc26927-70d5-40d4-af40-5186e68b04e4.png)
