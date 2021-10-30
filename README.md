@@ -1,2 +1,3 @@
 # RedArrow
-Red Arrow chrome plugin by
+Red Arrow chrome plugin by SoberGrim.
+<img>https://files.slack.com/files-pri/T2AEH901M-F02KFLM8QH4/image.png</img>
