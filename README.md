@@ -1,5 +1,6 @@
 # RedArrow
 Red Arrow chrome plugin by SoberGrim.
+
 Install:
 Chrome -> Extensions -> Developer Mode: on
 Upload unpacked extension -> choose folder with this plagin. Press OK.
