@@ -11,7 +11,7 @@ Chrome -> Extensions -> "Developer Mode: on"
 ![image](https://user-images.githubusercontent.com/12745995/139560543-d136493f-2805-416d-b9fa-295530c722b9.png)
 
 When installed, this plugin adds custom draggable Arrows on all sites. You can use them for making screenshots, like this one:
-![image](https://user-images.githubusercontent.com/12745995/139560805-c15b8b4d-0011-453c-af64-8236aaff6fdb.png)
+![image](https://user-images.githubusercontent.com/12745995/139560822-83b34f37-0e9d-4ac4-ae68-ef240a69231d.png)
 
 # Usage:
 F9 - on\off<br>
