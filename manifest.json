@@ -1,0 +1,17 @@
+{
+	"name":"Red Arrow",
+	"description":"Red arrow by SoberGrim",
+	"version":"1.0",
+	"manifest_version":2,
+	"icons": { "16": "arrow.png",
+        	"48": "arrow.png",
+        	"128": "arrow.png" },
+
+
+	"content_scripts": [
+	    {
+	      "matches": ["http://*/*","https://*/*"],
+	      "js": ["myscript.js"]
+	    }
+	  ]
+}
