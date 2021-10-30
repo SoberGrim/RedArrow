@@ -1,5 +1,5 @@
 # RedArrow
-Red Arrow chrome plugin by /me
+Red Arrow chrome mini-plugin
 
 # Install:
 Chrome -> Extensions -> "Developer Mode: on"
