@@ -13,11 +13,8 @@ Chrome -> Extensions -> "Developer Mode: on"
 When installed, adds custom draggable Arrows on all sites. You can use them for screenshots.
 
 Usage:
-
 F9 - on\off
-
 F8 - rotate arrow
-
 F7 - change arrow type
 
 Have fun!
