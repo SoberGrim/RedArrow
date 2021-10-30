@@ -16,6 +16,6 @@ When installed, this plugin adds custom draggable Arrows on all sites. You can u
 # Usage:
 F9 - on\off<br>
 F8 - rotate arrow<br>
-F7 - change arrow type<br>
+F7 - change arrow type\color<br>
 
 <b>Have fun!</b>
