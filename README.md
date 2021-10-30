@@ -8,7 +8,7 @@ Chrome -> Extensions -> "Developer Mode: on"
 
 "Upload unpacked extension" -> choose folder with this plagin. Press OK.
 
-![image](https://user-images.githubusercontent.com/12745995/139560484-4f2de534-5401-447e-9dbc-6c1845fb8cad.png)
+![image](https://user-images.githubusercontent.com/12745995/139560539-39432d30-369f-4afe-a765-a53afce37917.png)
 
 When installed, adds custom draggable Arrows on all sites. You can use them for screenshots.
 Usage:
