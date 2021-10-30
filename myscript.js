@@ -13,6 +13,7 @@
     var rmenu = document.createElement("div");
     rmenu.innerHTML = "<div id='rmenu' class='rmenu' style = 'z-index:999999; cursor: pointer; position:absolute; top:140px'><img id='image'  src='https://ucare.timepad.ru/9d9e4a08-b407-472d-96dc-982fb6ce8322/-/crop/864x1204/41,140/-/preview/' width='50'></div>";
     document.body.appendChild(rmenu);
+    document.getElementById('image').style.display = "none";
 
 		<!--- draggable div -->
 		var currDiv =  document.getElementById('rmenu');
