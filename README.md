@@ -1,7 +1,7 @@
 # RedArrow
 Red Arrow chrome plugin by SoberGrim.
 
-Install:
+# Install:
 Chrome -> Extensions -> "Developer Mode: on"
 
 ![image](https://user-images.githubusercontent.com/12745995/139560473-7a8ce50d-4a16-4e69-8e76-721ca10c7792.png)
@@ -12,10 +12,10 @@ Chrome -> Extensions -> "Developer Mode: on"
 
 When installed, adds custom draggable Arrows on all sites. You can use them for screenshots.
 
-Usage:
-F9 - on\off
-F8 - rotate arrow
-F7 - change arrow type
+# Usage:
+F9 - on\off 
+F8 - rotate arrow 
+F7 - change arrow type 
 
 Have fun!
 
